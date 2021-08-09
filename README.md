@@ -8,8 +8,6 @@
 [![Donate with Bitcoin](https://img.shields.io/badge/Donate-BTC-orange.svg)](https://blockchain.info/address/17dXgYr48j31myKiAhnM5cQx78XBNyeBWM)
 [![Donate with Ethereum](https://img.shields.io/badge/Donate-ETH-blue.svg)](https://etherscan.io/address/91dd20538de3b48493dfda212217036257ae5150)
 
-Python script that fetches all user information from existing chats, channels and enrolled Telegram groups then invites to your own selected group.
-
 
 ### Introduction:
 ------
@@ -21,12 +19,13 @@ Fisher's paper is a classic in the field and is referenced frequently to this da
 
 In this project we are going to use Iris Dataset with 6 different machine learning algorithms and visualize the data and compare the results. Algorithms are listed below:
 
- - Logistic Regression (LR)
- - Linear Discriminant Analysis (LDA)
- - K-Nearest Neighbors (KNN)
- - Classification and Regression Trees (CART)
- - Gaussian Naive Bayes (NB)
- - Support Vector Machines (SVM)
+ - Logistic Regression **(LR)**
+ - Linear Discriminant Analysis **(LDA)**
+ - K-Nearest Neighbors **(KNN)**
+ - Classification and Regression Trees **(CART)**
+ - Gaussian Naive Bayes **(NB)**
+ - Support Vector Machines **(SVM)**
+
 
 ### LICENSE
 ------
